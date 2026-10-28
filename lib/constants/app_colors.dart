@@ -5,5 +5,7 @@ class AppColors {
   static const Color secondaryColor = Color(0xffeadcce);
   static const Color tertiaryColor = Color(0xffA55704);
   static const Color scaffoldBackgroundColor = Color(0xffF7F2EB);
+  static const Color scaffoldForegroundColor = Color(0xffF7EAE0);
+  
 
 }
